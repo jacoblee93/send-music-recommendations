@@ -1,0 +1,12 @@
+{
+  "name": "jacoblee/uofthacks",
+  "version": "1.0.0",
+  "author": "jacoblee",
+  "stdlib": {
+    "name": "jacoblee/uofthacks",
+    "timeout": 10000
+  },
+  "dependencies": {
+    "lib": "^3.0.2"
+  }
+}
